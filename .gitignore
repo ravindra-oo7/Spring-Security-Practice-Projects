@@ -1,0 +1,27 @@
+# Eclipse / MyEclipse / IDE folders
+.metadata/
+*.log
+*.class
+*.iml
+*.ipr
+*.iws
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Target and build directories
+/target/
+/build/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node modules (if using Node/React somewhere)
+node_modules/
+
+# Personal or system-specific configs
+*.vscode/
